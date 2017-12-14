@@ -1,5 +1,5 @@
 
-INCLUDEPATH += $$PWD/include
+INCLUDEPATH += $$PWD/src
 
 SOURCES += $$PWD/src/graphicsbezieredge.cpp \
            $$PWD/src/graphicsnode.cpp \
